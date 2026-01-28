@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francis Njoroge</h1>
-<h3 align="center">A passionate back-end developer from Kenya</h3>
+  ## Francis Njoroge
+  A passionate back-end developer from Kenya
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainagithubrit&label=Profile%20views&color=0e75b6&style=flat" alt="mainagithubrit" /> </p>
 
